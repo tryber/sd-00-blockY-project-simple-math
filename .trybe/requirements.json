@@ -1,0 +1,12 @@
+{
+  "requirements": [{
+    "description": "Sum",
+    "bonus": false
+  }, {
+    "description": "Multiply",
+    "bonus": true
+  }, {
+    "description": "Power",
+    "bonus": false
+  }]
+}

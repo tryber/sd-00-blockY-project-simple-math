@@ -1,0 +1,22 @@
+{
+  "name": "sd-0x-blocky-project-simple-math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betrybe/sd-0x-blockY-project-simple-math.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betrybe/sd-0x-blockY-project-simple-math/issues"
+  },
+  "homepage": "https://github.com/betrybe/sd-0x-blockY-project-simple-math#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
